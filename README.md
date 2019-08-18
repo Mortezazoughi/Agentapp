@@ -1,4 +1,4 @@
-# Agentapp
+# Agent Management and Business Tracking App
 In this app, Broker will be able to add new real estate agents that have joined the brokerage firm. Agents will be able to update their activities and Borker will be able to monitor their progress. 
  Agents will be able to keep track of their deals. They can update the database by uploading the documents that is needed in a real estate transaction. Agents will be then be able to get Broker's feed back and have the proper documents sent to the closing attorney and their clients.
  Broker can keep track of all agents progress. Broker can view the agents profile, deals they are working on and all the deals that they have worked on in the past and have been closed. 
